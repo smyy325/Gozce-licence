@@ -46,6 +46,12 @@ python TFLite_detection_webcam.py --modeldir=custom_model_lite
 - YOLOv8 detects objects in the video stream.
 - Detected objects are announced through audio notifications.
 
+## Foto
+![Image](https://github.com/user-attachments/assets/7d10a658-83f3-4d92-9fd9-630c6e12d0ec)
+![Image](https://github.com/user-attachments/assets/d7ab514d-9df9-47e2-b5bf-ce0e2773aeb3)
+![Image](https://github.com/user-attachments/assets/ed2d537d-c531-4144-886a-3e0028a239d9)
+![Image](https://github.com/user-attachments/assets/d2705042-7905-47f6-a202-39859e8faa20)
+
 ## Contributors
 ***Müyesser Şenyüz***<br></br>
 ***Somaya Arab***
