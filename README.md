@@ -47,5 +47,5 @@ python TFLite_detection_webcam.py --modeldir=custom_model_lite
 - Detected objects are announced through audio notifications.
 
 ## Contributors
-***Müyesser Şenyüz***\n
+***Müyesser Şenyüz***<br></br>
 ***Somaya Arab***
